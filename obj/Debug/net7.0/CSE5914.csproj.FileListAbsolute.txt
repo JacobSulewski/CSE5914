@@ -1,0 +1,15 @@
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/CSE5914.csproj.AssemblyReference.cache
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/CSE5914.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/CSE5914.AssemblyInfoInputs.cache
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/CSE5914.AssemblyInfo.cs
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/CSE5914.csproj.CoreCompileInputs.cache
+/Users/jacobsulewski/Documents/GitHub/CSE5914/bin/Debug/net7.0/CSE5914
+/Users/jacobsulewski/Documents/GitHub/CSE5914/bin/Debug/net7.0/CSE5914.deps.json
+/Users/jacobsulewski/Documents/GitHub/CSE5914/bin/Debug/net7.0/CSE5914.runtimeconfig.json
+/Users/jacobsulewski/Documents/GitHub/CSE5914/bin/Debug/net7.0/CSE5914.dll
+/Users/jacobsulewski/Documents/GitHub/CSE5914/bin/Debug/net7.0/CSE5914.pdb
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/CSE5914.dll
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/refint/CSE5914.dll
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/CSE5914.pdb
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/CSE5914.genruntimeconfig.cache
+/Users/jacobsulewski/Documents/GitHub/CSE5914/obj/Debug/net7.0/ref/CSE5914.dll
