@@ -1,0 +1,133 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #3F3F3F;
+  color: #fdfdfd
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 0em;
+}
+
+.button {
+  margin: 0.5em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.item {
+  border: solid #888;
+  border-width: 1 1px;
+  padding-top: 1.5em;
+  padding-right: 3em;
+  padding-bottom: 1.5em;
+  padding-left: 3em;
+  height: 5%;
+  overflow: hidden;
+  margin: 0.75em;
+  border-radius: 10px;
+}
+.rating-item {
+  border: solid #888;
+  border-width: 1 1px;
+  padding: 0.25em;
+  overflow: hidden;
+  margin: 0.25em;
+  text-align: center;
+}
+
+.title-item {
+  border: solid #888;
+  border-width: 1 1px;
+  padding: 0.5em;
+  overflow: hidden;
+  margin: 0.75em;
+  text-align: center;
+}
+
+.desc-item {
+  border: solid #888;
+  border-width: 1 1px;
+  padding: 0.5em;
+  overflow: hidden;
+  margin: 0.75em;
+  text-align: center;
+}
+
+.left-container {
+  min-width: 25%;
+  max-width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.middle-container {
+  min-width: 50%;
+  max-width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.right-container {
+  min-width: 25%;
+  max-width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container {
+  border: solid #888;
+  border-width: 1 1px;
+  padding-top: 0.5em;
+  padding-right: 3em;
+  padding-bottom: 0.5em;
+  padding-left: 3em;
+  height: 5%;
+  overflow: hidden;
+  margin: 0.75em;
+  border-radius: 10px;
+  display: flex;
+}
+
+.movie-image {
+  max-width: 120px;
+  max-height: 200px;
+}
