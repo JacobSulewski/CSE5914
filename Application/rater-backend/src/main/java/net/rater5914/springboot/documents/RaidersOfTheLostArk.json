@@ -1,0 +1,20 @@
+{
+    "title" : "Raiders of the Lost Ark",
+    "starring" : [ "Harrison Ford", "Karen Allen", "John Rhys-Davies" ],
+    "runtime" : 105,
+    "genre" : [ "Adventure", "Action" ],
+    "description" : "Epic tale in which an intrepid archaeologist tries to beat a band of Nazis to a unique religious relic which is central to their plans for world domination. Battling against a snake phobia and a vengeful ex-girlfriend, Indiana Jones is in constant peril, making hair's-breadth escapes at every turn in this celebration of the innocent adventure movies of an earlier era",
+    "imagery" : "Insert link to hosted photo or something here",
+    "releaseYear" : 1981,
+    "rating" : 8.4,
+    "categories" : {
+                              "plot" : 9.5,
+                              "acting" : 7.4,
+                              "ending" : 9.6,
+                              "soundtrack" : 10.0,
+                              "cinematography" : 9.8,
+                              "funny" : 8.6,
+                              "action" : 9.8,
+                              "familyFriendly" : 6.5
+                            }
+}
